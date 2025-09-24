@@ -1,7 +1,7 @@
 # Oracode
 
 Oracode is an **offline-first, multilingual, systems-thinking coding platform** for kids in underserved communities.  
-They don’t just learn to code — they **build systems, solve crises, and reimagine the future**.  
+They don’t just learn to code, they **build systems, solve crises, and reimagine the future**.  
 💡 Real-world logic. 🔌 Low-end support. 🌍 Built for justice.
 
 ## About the Project
@@ -18,7 +18,7 @@ We’re looking for contributors who:
 
 ## How to Join
 
-Everything happens on our **Discord** — design, coding, discussion, planning.  
+Everything happens on our **Discord**, design, coding, discussion, planning.  
 **Join here:** [Discord link]
 
 ## What You’ll Get
@@ -26,4 +26,4 @@ Everything happens on our **Discord** — design, coding, discussion, planning.
 - Real-world project experience  
 - Certificate of contribution  
 - Strong addition to your resume/portfolio  
-- Collaborate with a distributed team of professionals and students from Purdue, IIT, NIT, Georgia State, SPTech, and more
+- Collaborate with a distributed team of professionals from Purdue, IIT, NIT, Georgia State, SPTech, and more
